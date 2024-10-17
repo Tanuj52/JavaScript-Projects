@@ -1,4 +1,4 @@
-const API_KEY = '73faeaa17fde308d431a5bdf83579e00'; // Replace with your OpenWeatherMap API key
+const API_KEY = 'f1819733a3466d68cf09a867930346b6'; // Replace with your OpenWeatherMap API key
 let currentCity = 'London'; // Default city
 
 const fetchWeatherData = async () => {
